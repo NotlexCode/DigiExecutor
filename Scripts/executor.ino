@@ -23,6 +23,7 @@ void loop() {
     digitalWrite(1, LOW);   
     digitalWrite(0, LOW); 
     delay(500); 
-    //Blinking after code execution   
+    
+    //Blinking after code execution    
 } 
 
